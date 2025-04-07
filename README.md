@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Seymanur Karakurt
 
-<!--
-**seymakrkrt3334/seymakrkrt3334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a passionate Software Engineering student at Hasan Kalyoncu University, building my path into **AI & LLM Engineering**.
 
-Here are some ideas to get you started:
+🧠 Currently Learning:
+- Generative AI (LLMs, Agents, RAG, QLoRA)
+- HuggingFace, LangChain, Python
+- NLP & Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Enrolled in:  
+**Mastering Generative AI and LLMs: An 8-Week Hands-On Journey**  
+Led by Ed Donner – building real-world AI projects.
+
+🧪 Upcoming Projects:
+- 📄 AI-powered brochure generator
+- 🤖 Multi-modal chatbot
+- 🎧 Audio-to-notes assistant
+- 💡 Code optimizer with LLMs (Python → C++)
+- 🧾 Knowledge worker AI using RAG
+
+📂 Explore my work and growth:
+- GitHub: [github.com/seymakrkrt3334](https://github.com/seymakrkrt3334)
+- LinkedIn: [linkedin.com/in/şeymanur-karakurt-a38965251](https://www.linkedin.com/in/%C5%9Feymanur-karakurt-a38965251/)
+
+🚀 Always building, always learning!
